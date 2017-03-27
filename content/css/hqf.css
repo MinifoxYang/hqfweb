@@ -1,0 +1,47 @@
+div {
+   /* border: solid black;*/
+}
+
+.hqf-banner{
+    height: 128px;
+}
+
+.hqf-content{
+    height: 800px;
+    background-image: url("../img/content-bg.png");
+    background-size:contain;
+}
+
+.hqf-content-text-img{
+    margin-top: 175px;
+    height:450px;
+}
+
+.hqf-content-wine-img
+{
+    margin-top: 250px;
+}
+
+.hqf-bottom{
+    height: 200px;
+    background-image: url("../img/content-bg.png");
+    background-size:contain;
+}
+
+.hqf-banner-logo-img {
+    margin: 10px;
+    height: 64px;
+    width: 64px;
+}
+
+.hqf-banner
+{
+    background-image: url("../img/content-bg.png");
+    background-size:contain;
+}
+
+.hqf-content-wine-img
+{
+    height:256px;
+    width: 256px;
+}
